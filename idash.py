@@ -1,4 +1,3 @@
-from this import d
 import streamlit as st
 import mplfinance as mpf
 import pandas as pd
